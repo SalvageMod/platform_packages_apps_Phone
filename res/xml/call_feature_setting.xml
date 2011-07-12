@@ -68,6 +68,13 @@
         android:title="@string/other_settings"
         android:persistent="false" />
 
+<CheckBoxPreference
+        android:key="button_voicemail_notification"
+        android:title="@string/voicemail_notification_title"
+        android:summaryOn="@string/voicemail_notification_on_summary"
+        android:summaryOff="@string/voicemail_notification_off_summary"
+        android:persistent="false" />
+
     <CheckBoxPreference
         android:key="button_auto_retry_key"
         android:title="@string/auto_retry_mode_title"

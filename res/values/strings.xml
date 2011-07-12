@@ -1219,6 +1219,12 @@
     <string name="goPrivate">go private</string>
     <!--  Use this to describe the select contact button in EditPhoneNumberPreference; currently for screen readers through accessibility. -->
     <string name="selectContact">select contact</string>
+    <!-- Title displayed for the checkbox to (en|dis)able voicemail notifications. [CHAR LIMIT=NONE] -->
+    <string name="voicemail_notification_title">Voicemail notifications</string>
+    <!-- Summary for the checkbox to disable voicemail notifications.  [CHAR LIMIT=NONE] -->
+    <string name="voicemail_notification_on_summary">Stock voicemail notifications will be shown</string>
+    <!-- Summary for the checkbox to enable voicemail notifications. [CHAR LIMIT=NONE] -->
+    <string name="voicemail_notification_off_summary">Stock voicemail notifications will be hidden</string>
 
 
     <!-- Start of SIP related strings defined from here. -->
